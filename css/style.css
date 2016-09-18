@@ -1,4 +1,8 @@
-.container-fluid{
-	background: #76BFA8;
-	max-width: 1300px;
+
+/* style magmme */
+
+
+.navbar-inverse{
+	background-color: rgba(0, 0, 0, 0.5);
+	border: none;
 }

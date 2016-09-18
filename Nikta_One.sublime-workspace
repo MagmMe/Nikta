@@ -1,0 +1,1456 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"ech",
+				"echo	echo \"…\""
+			],
+			[
+				"insert",
+				"insertBefore(newElement, referenceElement)	Node"
+			],
+			[
+				"getele",
+				"getElementsByTagName(name)	Element"
+			],
+			[
+				"do",
+				"document	Document"
+			],
+			[
+				"crea",
+				"createTextNode(data)	Document"
+			],
+			[
+				"inse",
+				"insertBefore(newElement, referenceElement)	Node"
+			],
+			[
+				"app",
+				"appendChild(aChild)	Node"
+			],
+			[
+				"cre",
+				"createTextNode(data)	Document"
+			],
+			[
+				"q",
+				"querySelector(selectors)	Element"
+			],
+			[
+				"Ima",
+				"new Image()"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"Im",
+				"new Image()"
+			],
+			[
+				"textN",
+				"createTextNode(data)	Document"
+			],
+			[
+				"getelement",
+				"getElementsByClassName(names)	Element"
+			],
+			[
+				"geteleme",
+				"getElementsByTagName(name)	Element"
+			],
+			[
+				"cono",
+				"console.log()"
+			],
+			[
+				"qu",
+				"querySelectorAll(selectors)	Element"
+			],
+			[
+				"getelem",
+				"getElementsByClassName(names)	Element"
+			],
+			[
+				"clear",
+				"clearInterval(intervalID)	Window"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"setTi",
+				"setTimeout(func, delay)	Window"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"t",
+				"throw"
+			],
+			[
+				"new",
+				"new Error(message)	Error"
+			],
+			[
+				"get",
+				"getDate()	Date"
+			],
+			[
+				"Mat",
+				"Math.random()	Math"
+			],
+			[
+				"Ma",
+				"Math.PI	Math"
+			],
+			[
+				"l",
+				"length	String"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bor",
+				"border-right"
+			],
+			[
+				"delete",
+				"delete(Object)	Object"
+			],
+			[
+				"fun",
+				"function without name"
+			],
+			[
+				"wdi",
+				"width"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"spl",
+				"splice(index, howMany)	Array"
+			],
+			[
+				"sp",
+				"splice(index, howMany)	Array"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"un",
+				"unshift(element1)	Array"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"posi",
+				"position"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"func",
+				"new Function()	Function"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"czlowiek",
+				"czlowiek2"
+			],
+			[
+				"dow",
+				"do while()"
+			],
+			[
+				"w",
+				"while()"
+			],
+			[
+				"cons",
+				"console.log()"
+			],
+			[
+				"alert",
+				"alert(message)	Window"
+			],
+			[
+				"aler",
+				"alert(message)	Window"
+			],
+			[
+				"ale",
+				"alert(message)	Window"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"tran",
+				"transition	CSS - transition: ;"
+			],
+			[
+				"conta",
+				"container_width"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bs3-t",
+				"bs3-table	bs3-table"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"wi",
+				"width	Style CSS"
+			],
+			[
+				"transition-",
+				"transition-duration"
+			],
+			[
+				"tra",
+				"transition-property"
+			],
+			[
+				"trans",
+				"translate()"
+			],
+			[
+				"bl",
+				"blur()"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"flex-sh",
+				"-webkit-flex-shrink"
+			],
+			[
+				"ba",
+				"baseline"
+			],
+			[
+				"flex",
+				"flex-start"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"con",
+				"justify-content"
+			],
+			[
+				"colu",
+				"column-reverse"
+			],
+			[
+				"a",
+				"all"
+			],
+			[
+				"ju",
+				"justify-content"
+			],
+			[
+				"ite",
+				"justify-items"
+			],
+			[
+				"ov",
+				"ov-h	overflow: hidden;"
+			],
+			[
+				"fl",
+				"fl-l	float: left;"
+			],
+			[
+				"hi",
+				"hidden"
+			],
+			[
+				"flex-gr",
+				"-webkit-flex-grow"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"justi",
+				"justify-content"
+			],
+			[
+				"jus",
+				"-webkit-justify-self"
+			],
+			[
+				"flex-",
+				"flex-wrap"
+			],
+			[
+				"spac",
+				"space-between"
+			],
+			[
+				"fex",
+				"flex-direction"
+			],
+			[
+				"bol",
+				"bold"
+			],
+			[
+				"tetx",
+				"text-align"
+			],
+			[
+				"background-c",
+				"background-clip"
+			],
+			[
+				"Fotn",
+				"font-family"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"scri",
+				"script	<script>"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"fotn",
+				"font-weight"
+			],
+			[
+				"I",
+				"italic"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"bs3-i",
+				"bs3-image	bs3-image"
+			],
+			[
+				"san",
+				"sans-serif"
+			],
+			[
+				"colo",
+				"colorLink"
+			],
+			[
+				"bs3-c",
+				"bs3-col	bs3-col"
+			],
+			[
+				"div",
+				"div	<div>"
+			],
+			[
+				"n",
+				"none"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "\n<!DOCTYPE html>\n<html lang=\"pl\">\n  <head>\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->\n    <title>Kurs Bootstrap</title>\n\n    <!-- Bootstrap -->\n    <link href=\"css/bootstrap.min.css\" rel=\"stylesheet\">\n    <link rel=\"stylesheet\" href=\"css/style.css\">\n\n    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->\n    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->\n    <!--[if lt IE 9]>\n      <script src=\"https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js\"></script>\n      <script src=\"https://oss.maxcdn.com/respond/1.4.2/respond.min.js\"></script>\n    <![endif]-->\n  </head>\n  <body>\n\n\n\n    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->\n    <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js\"></script>\n    <!-- Include all compiled plugins (below), or include individual files as needed -->\n    <script src=\"js/bootstrap.min.js\"></script>\n    <script src ></script>\n  </body>\n</html>",
+			"file": "index.html",
+			"file_size": 1198,
+			"file_write_time": 131186561060000000,
+			"settings":
+			{
+				"buffer_size": 1225,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "ma",
+		"selected_items":
+		[
+			[
+				"ma",
+				"Material Theme: Configuration"
+			],
+			[
+				"bs3 h",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"synt html",
+				"Set Syntax: HTML"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"sy css",
+				"Set Syntax: CSS3"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"sy ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn  cs",
+				"Set Syntax: CSS3"
+			],
+			[
+				"synt ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"fe",
+				"Fetch: Package"
+			],
+			[
+				"SYN JA",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn hm",
+				"Set Syntax: HTML"
+			],
+			[
+				"fect",
+				"Fetch: Manage"
+			],
+			[
+				"synt htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"styn h",
+				"Set Syntax: HTML"
+			],
+			[
+				"synt h",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"sty",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"syn css",
+				"Set Syntax: CSS3"
+			],
+			[
+				"syn h",
+				"Set Syntax: HTML"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"syn ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"syn sa",
+				"Set Syntax: Sass"
+			],
+			[
+				"au",
+				"Autoprefix CSS"
+			],
+			[
+				"fet",
+				"Fetch: Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"syn less",
+				"Set Syntax: LESS"
+			],
+			[
+				"syn",
+				"Set Syntax: Less"
+			],
+			[
+				"a",
+				"Autoprefix CSS"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"synt css",
+				"Set Syntax: CSS3"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"File",
+				"File: Copy as Tag style"
+			],
+			[
+				"file",
+				"File: Copy as Tag script"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"synt hm",
+				"Set Syntax: HTML"
+			],
+			[
+				"net",
+				"File: New File Relative to Current View"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pac in",
+				"Package Control: Install Package"
+			],
+			[
+				"synt java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"snip media",
+				"Snippet: bs3-media-object"
+			],
+			[
+				"sni bs3",
+				"Snippet: bs3-breadcrumbs"
+			],
+			[
+				"sni",
+				"Snippet: bs3-navbar-inverse"
+			],
+			[
+				"syn ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				" htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"sy",
+				"Set Syntax: YAML"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"synt jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"styn ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"SYN HTM",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn jac",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn c",
+				"Set Syntax: CSS"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ssyn css",
+				"Set Syntax: CSS3"
+			],
+			[
+				"syn js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"rem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"fetch ",
+				"Fetch: Manage"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"Disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack i",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: bs3-h",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"Snippet: div",
+				"Snippet: <div>"
+			],
+			[
+				"pacga",
+				"Package Control: Install Package"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 503.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/MarcinMagiera/Desktop/Nikta/Nikta_One",
+		"/Users/MarcinMagiera/Desktop/Nikta/Nikta_One/css",
+		"/Users/MarcinMagiera/Desktop/Nikta/Nikta_One/js"
+	],
+	"file_history":
+	[
+		"/Users/MarcinMagiera/Desktop/Bootstrap_Kurs/08/08_02/start/index.html",
+		"/Users/MarcinMagiera/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/MarcinMagiera/Desktop/Bootstrap_Kurs/06/06_01/start/06_01.html",
+		"/Users/MarcinMagiera/Documents/www/My Websides/6. Bootstrap/App/index.html",
+		"/Users/MarcinMagiera/Desktop/Bootstrap_Kurs/04/04_08/start/04_08.html",
+		"/Users/MarcinMagiera/Desktop/Bootstrap_Kurs/09/09_04/index.html",
+		"/Users/MarcinMagiera/Desktop/Bootstrap_Kurs/09/09_04/css/wlasny.css",
+		"/Users/MarcinMagiera/Desktop/Bootstrap_Kurs/04/04_07/start/04_07.html",
+		"/Users/MarcinMagiera/Desktop/Bootstrap_Kurs/04/04_06/start/04_06.html",
+		"/Users/MarcinMagiera/Desktop/Bootstrap_Kurs/04/04_02/start/04_02.html",
+		"/Users/MarcinMagiera/Desktop/Bootstrap_Kurs/03/03_06/start/03_06.html",
+		"/Users/MarcinMagiera/Desktop/Nikta/Bootstrap/index.html",
+		"/Users/MarcinMagiera/Desktop/Nikta/Bootstrap/css/style.css",
+		"/Users/MarcinMagiera/Desktop/Nikta/index.html",
+		"/Users/MarcinMagiera/Documents/www/My Websides/6. Bootstrap/App/css/bootstrap-theme.css",
+		"/Users/MarcinMagiera/Documents/www/My Websides/6. Bootstrap/App/css/bootstrap.css",
+		"/Users/MarcinMagiera/Desktop/Project/js/script.js",
+		"/Users/MarcinMagiera/Desktop/Project/css/style.css",
+		"/Users/MarcinMagiera/Desktop/Project/index.html",
+		"/Users/MarcinMagiera/Desktop/Project/css/bootstrap-theme.css",
+		"/Users/MarcinMagiera/Desktop/Project/style.css",
+		"/Users/MarcinMagiera/Desktop/Project/script.js",
+		"/Users/MarcinMagiera/Downloads/gorecki/index.html",
+		"/Users/MarcinMagiera/Downloads/gorecki/podglad.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/2ED85CEB-9724-421A-87DF-36D5BA138C12/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/BC219F99-BE5D-496A-A765-957F94179D80/index.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/151610EF-2AFF-44D0-B5A8-B43564BCEB40/index.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/8A994944-0906-4D86-9DE4-7328ECD65236/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/84ABB664-E921-4829-8FD4-12F8075A6BA3/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/852581AC-D499-4D11-8013-36C3CFC4607A/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/212C0285-140F-4245-9955-05B5F8A04625/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/1D86909C-B816-4B03-AE34-A5DD24034595/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/3DB5715B-A062-4951-905B-54B8D303357B/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/07EF6D1C-8691-4EF8-8367-06BB9E60D9EF/wp-config.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/C43AD3C5-B7A2-4C92-ADE3-73501CD1D1F1/wp-config.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/D782504A-FA80-44DF-9E0B-E8930230682A/wp-config.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/3DB6129F-EB79-401C-AF07-B41AD4089925/wp-config.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/639CB00C-7F93-4ABC-AAAB-F1866B5BF782/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/1094E7F6-4621-47FF-A4DE-5CCFD0CD5B6F/wp-config.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/25F6992E-496A-41DD-A7C8-791D2CB04ABE/wp-config.php",
+		"/Users/MarcinMagiera/Desktop/wp-config.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/6846BF5B-928C-4DA0-B64E-1898D2FA42E6/main.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/1C18B72F-4DCF-4A2F-94C5-5759BBD036B3/wp-config-sample.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/A125F94D-910C-49E5-BF36-E53E5D982607/wp-config-sample.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/528A45DF-BBA7-44B6-9770-A0D88E8F8C57/readme.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/227190DC-C526-4B32-B030-BAE89FF1B4A3/wp-config.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/B8E851E0-B10A-43A4-A214-B4A8FC5CF23E/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/CB7FCB30-A23C-403B-89E6-8A90302D1E66/wp-config.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/CCA6FC3F-B84B-43ED-A784-2CE71BE34D98/wp-config.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/F10F1A1E-C70C-44E6-80C4-68FA8BA40240/wp-config.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/E3D5AEFF-7408-4157-BF8B-87F10037896F/functions.php",
+		"/Users/MarcinMagiera/Desktop/test/style.css",
+		"/Users/MarcinMagiera/Desktop/test/test.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/87753FCE-6046-46A8-A8F7-8DC597531CBD/wp-config.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/8720E3A2-7F0F-4B7E-81B6-B8B3550BE11F/functions.php",
+		"/Users/MarcinMagiera/Desktop/adres_gorecki.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/7A51BBA9-A4AD-4188-9AE1-4CC380090070/functions.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/133CB29F-7BC4-416D-A647-18113A8C9753/functions.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/A35DEB1E-906C-4322-948C-DCB4223B7845/wp-config.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/9FC289C4-0FF7-4213-8194-B4D36354E208/functions.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/85061FF6-44D7-4B9C-96A4-3ADB0D6914A9/functions.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/A8374308-2E0A-40C5-B452-F37428ACF61B/xmlrpc.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/3EF15E80-ECB2-48AC-9739-240A939F7573/wp-settings.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/92D07A6A-6DE1-4120-AC2B-B6B03CA74C09/wp-config.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/B67C7156-8FCA-4890-82AB-93217B2B7ED3/wp-blog-header.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/5F6A180D-E3B1-43EB-8DEA-1DD0EED0B204/wp-settings.php",
+		"/Users/MarcinMagiera/Desktop/test.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/B003C163-277F-4AA0-96CF-2C3B42AC452A/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/CB4C6748-5D8D-4387-BABA-24B383524D77/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/91139F3F-98D2-4365-B398-FC4A6918DF3D/style.css",
+		"/Users/MarcinMagiera/Desktop/Górecki/Translate/top-Menu_translate.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/45D9777D-D889-4D3C-BFBE-A10EE642DA16/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/B4E2277E-1C53-42CF-8EAF-9ECDB7FA4224/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/A5CD828E-A009-4CA2-B9C8-E4D8FB1AE022/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/0576D18B-6E77-4766-9547-A21F76D0153A/style.css",
+		"/Users/MarcinMagiera/Downloads/themeforest-12957244-avoir-creative-portfolio-bootstrap-template-file-and-license20160824-28929-19q7lpv/themeforest-12957244-avoir-creative-portfolio-bootstrap-template/Template/home-parallax.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/35CCAF8B-DE40-444E-9093-D252047EDD69/style.css",
+		"/Users/MarcinMagiera/Desktop/xml35.php",
+		"/Users/MarcinMagiera/Desktop/index.php",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#2/custom.css",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#1/style.css",
+		"/Users/MarcinMagiera/Downloads/themeforest-10049784-notio-deluxe-portfolio-theme/notio-wp-child/style.css",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#19/index.html",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#18/client.php",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#17/modal.css",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#16/mootree.css",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#15/index.html",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#14/index.html",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#12/p.php",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#10/index.html",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#9/themes.php",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#7/p.php",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#6/LICENSES.php",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#5/LICENSE.php",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#4/INSTALL.php",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#3/index.php",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#2/CHANGELOG.php",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#1/configuration.php",
+		"/Users/MarcinMagiera/Downloads/themeforest-12957244-avoir-creative-portfolio-bootstrap-template-file-and-license20160824-28929-19q7lpv/themeforest-12957244-avoir-creative-portfolio-bootstrap-template/Template/home-video.html",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#0/style.css",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#5/comments.php",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#3/single.php",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#2/functions.php",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#1/header.php",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#0/search.php",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#4/template-blog.php",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#6/wp-config.php",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#1/wp-config.php",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#0/wp-config.php",
+		"/Users/MarcinMagiera/Desktop/Custom font Górecki",
+		"/Users/MarcinMagiera/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/Users/MarcinMagiera/Documents/www/My Websides/jquery.mobile-1.4.5/demos/css/themes/default/images/icons-svg/power-white.svg",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#5/style.css",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#2/style_dynamic_responsive.css",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#4/modules-responsive.css",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#3/modules.css",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#2/style.css",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#3/index.html",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#12/index.php",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#9/quota.cgi",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#7/index.html",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#6/index.html",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#4/quota.cgi",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#0/index.html",
+		"/Applications/MAMP/htdocs/kurs_php/index.php",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#1/index.php",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#11/functions.php",
+		"/Users/MarcinMagiera/Library/Caches/com.binarynights.ForkLift2/#10/functions.php"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 154.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".black-overlay",
+			"black-overlay",
+			"important",
+			"!important;",
+			"!important",
+			"header",
+			"font-family",
+			"large-3",
+			"h2",
+			"share",
+			"all",
+			"media",
+			"share",
+			"'share'",
+			"share",
+			".share",
+			"share",
+			"large-12",
+			"Recenzje",
+			"background",
+			"'league tables'",
+			"%;",
+			"div",
+			"\n.",
+			"accessibilityCss",
+			"#accessibilityCss",
+			"section",
+			"seciotn",
+			"$result",
+			"$",
+			"height",
+			"backgroudn",
+			"background",
+			"\n\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis consequatur ea velit nihil, qui dignissimos tenetur, aperiam tempore veniam, harum voluptatum sed. Aliquid illum consectetur, minus ad natus, harum consequatur.\n	\n\n	<div>\n		<ul>\n			<li>zero</li>\n			<li>One</li>\n			<li>Two</li>\n			<li>Three</li>\n			<li>Five</li>\n			<li>eight</li>\n			<li>eight</li>\n			<li>eight</li>\n			<li>eight</li>\n			<li>eight</li>\n			<li>eight</li>\n			<li>eight</li>\n			<li>eight</li>\n			<li>eight</li>\n			<li>eight</li>\n		</ul>\n	</div>\n\n",
+			"div",
+			"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum facilis at qui similique rem modi fugiat? Placeat suscipit odio ratione sit fugit similique ipsam. Autem similique corrupti consequatur! Excepturi, voluptates.\n",
+			"data",
+			"likked",
+			"link",
+			"menu",
+			"					\n",
+			"bar",
+			"icon-bar\"></span>\n			<span class=\"icon-bar\"></span>\n			<span class=\"icon-b",
+			"bar",
+			"icon-bars",
+			"icon-bar",
+			"()\">",
+			"home section"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"icon-bar",
+			"icon-bars"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1225,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1225,
+								1225
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1220,
+										1224
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										18,
+										22
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS3/CSS3.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 98.0
+	},
+	"pinned_build_system": "",
+	"project": "Nikta_One.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"index.html"
+			],
+			[
+				"sty",
+				"style.css"
+			],
+			[
+				"foo",
+				"footer.php"
+			],
+			[
+				"cu",
+				"js/custom.js"
+			],
+			[
+				"si",
+				"single.php"
+			],
+			[
+				"ind",
+				"index.php"
+			],
+			[
+				"boo",
+				"css/bootstrap-theme.css"
+			],
+			[
+				"in",
+				"~/Documents/www/My Websides/6. Bootstrap/App/index.html"
+			],
+			[
+				"bo",
+				"css/bootstrap-theme.css"
+			],
+			[
+				"boot",
+				"js/bootstrap.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -5,15 +5,15 @@
 		[
 			[
 				"padd",
-				"padding-top"
+				"padding-bottom"
+			],
+			[
+				"bac",
+				"background-size"
 			],
 			[
 				"min",
 				"min-width"
-			],
-			[
-				"bac",
-				"background"
 			],
 			[
 				"ma",
@@ -850,12 +850,13 @@
 	"expanded_folders":
 	[
 		"/Users/MarcinMagiera/Desktop/Nikta/Bootstrap",
-		"/Users/MarcinMagiera/Desktop/Nikta/Bootstrap/css"
+		"/Users/MarcinMagiera/Desktop/Nikta/Bootstrap/css",
+		"/Users/MarcinMagiera/Desktop/Nikta/Bootstrap/images"
 	],
 	"file_history":
 	[
-		"/Users/MarcinMagiera/Desktop/Nikta/Bootstrap/css/style.css",
 		"/Users/MarcinMagiera/Desktop/Nikta/Bootstrap/index.html",
+		"/Users/MarcinMagiera/Desktop/Nikta/Bootstrap/css/style.css",
 		"/Users/MarcinMagiera/Desktop/Nikta/index.html",
 		"/Users/MarcinMagiera/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Users/MarcinMagiera/Documents/www/My Websides/6. Bootstrap/App/css/bootstrap-theme.css",
