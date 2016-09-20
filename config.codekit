@@ -56,6 +56,94 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/images\/icons\/Book.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3084,
+		"inputAbbreviatedPath": "\/images\/icons\/Book.png",
+		"outputAbbreviatedPath": "\/images\/icons\/Book.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/icons\/facebook.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1612,
+		"inputAbbreviatedPath": "\/images\/icons\/facebook.png",
+		"outputAbbreviatedPath": "\/images\/icons\/facebook.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/icons\/googleplus.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2835,
+		"inputAbbreviatedPath": "\/images\/icons\/googleplus.png",
+		"outputAbbreviatedPath": "\/images\/icons\/googleplus.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/icons\/Mail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7028,
+		"inputAbbreviatedPath": "\/images\/icons\/Mail.png",
+		"outputAbbreviatedPath": "\/images\/icons\/Mail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/icons\/Map.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8582,
+		"inputAbbreviatedPath": "\/images\/icons\/Map.png",
+		"outputAbbreviatedPath": "\/images\/icons\/Map.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/icons\/twitter.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2166,
+		"inputAbbreviatedPath": "\/images\/icons\/twitter.png",
+		"outputAbbreviatedPath": "\/images\/icons\/twitter.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/icons\/vimeo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2307,
+		"inputAbbreviatedPath": "\/images\/icons\/vimeo.png",
+		"outputAbbreviatedPath": "\/images\/icons\/vimeo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/icons\/Watches.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11612,
+		"inputAbbreviatedPath": "\/images\/icons\/Watches.png",
+		"outputAbbreviatedPath": "\/images\/icons\/Watches.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/m1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -177,6 +265,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/quality.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41850,
+		"inputAbbreviatedPath": "\/images\/quality.jpg",
+		"outputAbbreviatedPath": "\/images\/quality.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/rodzinka.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -184,6 +283,17 @@
 		"initialSize": 1.37947e+07,
 		"inputAbbreviatedPath": "\/images\/rodzinka.jpg",
 		"outputAbbreviatedPath": "\/images\/rodzinka.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/rzetelna2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19187,
+		"inputAbbreviatedPath": "\/images\/rzetelna2.png",
+		"outputAbbreviatedPath": "\/images\/rzetelna2.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
