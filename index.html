@@ -1,4 +1,5 @@
 
+
 <!DOCTYPE html>
 <html lang="pl">
   <head>
@@ -8,9 +9,14 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>Kurs Bootstrap</title>
 
+    <!-- Font Open Sans -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans|Raleway" rel="stylesheet">
+
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/preloader.css">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -39,13 +45,10 @@
                       <span class="icon-bar"></span>
                       <span class="icon-bar"></span>
                       <span class="icon-bar"></span>
-
                     </button>
-                    <div id="logo"><a href="#" class="navbar-brand">Logo</a></div>
+                    <div id="logo"><a href="#" class="navbar-brand"><img src="images/nikta_logo.png" alt=""></a></div>
                   </div> <!-- Naleśnik end -->
-
                     <!-- zawartość paska menu -->
-
                       <div id="moje-menu" class="collapse navbar-collapse">
                         <ul class="nav navbar-nav navbar-right">
                           <li class="active"><a href="#">Strona Główna</a></li>
@@ -55,15 +58,200 @@
                           <li><a href="#">Kontakt</a></li>
                         </ul>
                       </div> <!-- - Koniec paska menu -->
+                </div>
+              </nav>
+            </div>
+          </div>
+        </header>
 
+        <!--#############-->
+        <!--Slider-->
+       <!--#############-->
+
+
+       <div class="carousel slide paralax" id="slider" data-ride="carousel">
+
+            <!-- Znaczniki slajdów - kropki -->
+            <ol class="carousel-indicators">
+              <li data-target="#slider" data-slide-to="0" class="active"></li>
+              <li data-target="#slider" data-slide-to="1"></li>
+           </ol> <!-- koniec znaczników -->
+
+          <!-- Slajdy -->
+          <div class="carousel-inner" role="listbox">
+            <div class="item active">
+              <img src="images/shoes.jpg" alt="" class="img-responsive">
+
+                <!-- Podpis na zdjęciu -->
+                <div class="carousel-caption">
+                  <h1>Maszyny obuwnicze</h1>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum quo facilis molestiae tenetur vero voluptates!</p><!-- Koniec na zdjęciu -->
+                </div>
+            </div>
+            <div class="item">
+              <img src="images/shoemaker.jpg" alt="" class="img-responsive">
+
+                <!-- Podpis na zdjęciu -->
+                <div class="carousel-caption">
+                  <h1>Maszyny obuwnicze</h1>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum quo facilis molestiae tenetur vero voluptates!</p><!-- Koniec na zdjęciu -->
+                </div>
+            </div><!-- </div>  Koniec slajdów -->
+
+
+            <!-- Kontrolery - strzałki zmiany slajdów -->
+
+            <a class="left carousel-control" href="#slider" role="button" data-slider="prev">
+              <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+              <span class="sr-only">Poprzedni</span>
+            </a>
+
+            <a class="right carousel-control" href="#slider" role="button" data-slide="next">
+              <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+              <span class="sr-only">Następny</span>
+            </a>
+
+          </div>
+
+        </div>
+
+            <!-- ######### -->
+            <!-- Intro -->
+            <!-- ######### -->
+
+        <section id="intro">
+          <div class="container">
+            <div class="row">
+              <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                  <h2>Witamy na stronie Nikta</h2>
+                  <h4>W naszej ofercie znajdą Państwo maszyny obuwnicze, wyposażenie oraz materiały do branży obuwniczej.</h4>
+              </div>
+            </div>
+          </div>
+        </section>
+
+            <!-- ######### -->
+            <!-- O nas -->
+            <!-- ######### -->
+
+        <section id="o-nas">
+          <div class="container">
+              <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                  <h2>Oferta</h2>
+                  <h4>Zapraszamy Państwa do zapoznania się z ofertą firmy Nikta.</h4>
+                </div>
+              </div>
+          </div>
+          <div class="container">
+            <div class="row">
+                <div class="col-sm-4 col-md-4 col-lg-4">
+                  <div class="thumbnail">
+                    <img src="images/sewing-machine.png" alt="" class="img-responsive">
+                    <h3>Maszyny do szycia</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur</p>
+                  </div>
+                </div>
+                <div class="col-sm-4 col-md-4 col-lg-4">
+                  <div class="thumbnail">
+                    <img src="images/needle.png" alt="" class="img-responsive">
+                    <h3>Maszyny do szycia</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur</p>
+                  </div>
+                </div>
+                <div class="col-sm-4 col-md-4 col-lg-4">
+                  <div class="thumbnail">
+                    <img src="images/spool-of-thread.png" alt="" class="img-responsive">
+                    <h3>Maszyny do szycia</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur</p>
+                  </div>
+                </div>
+            </div>
+          </div>
+        </section>
+
+
+        <!-- ######### -->
+        <!-- Kontakt -->
+        <!-- ######### -->
+
+        <hr>
+
+        <section id="kontakt">
+          <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-lg-6">
+                     <h2>Napisz, zadzwoń</h2>
                 </div>
 
-              </nav>
+                <div class="col-md-6 col-lg-6">
 
+                      <h1>032 216 24 96</h1>
+                </div>
+            </div>
+          </div>
+        </section>
+
+
+
+        <!-- ########### -->
+        <!-- Nowości w ofercie -->
+        <!-- ########### -->
+
+        <hr>
+        <section id="nowosci">
+           <div class="container">
+              <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                  <h2>Nowości w naszej ofercie</h2>
+                  <h4>Najnowsze maszyny i urządzenia.</h4>
+                </div>
+              </div>
+          </div>
+
+          <div class="container">
+            <div class="row">
+              <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <ul class="nav nav-pills">
+                  <li role="presentation" class="active"><a href="#maszyny" data-toggle="tab" role="tab">Maszyny</a></li>
+                  <li role="presentation"><a href="#akcesoria" data-toggle="tab" role="tab">Akcesoria</a></li>
+                  <li role="presentation"><a href="#inne" data-toggle="tab" role="tab">Inne</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <div class="tab-content">
+                  <div role="tab-panel" class="tab-pane active" id="maszyny">
+                    <div class="row">
+                      <div class="col-xs-12 col-sm-5 col-md-5 col-lg-6">
+
+                          <img src="images/m1.jpg" alt="" class="img-responsive">
+                      </div>
+                      <div class="col-xs-12 col-sm-7 col-md-7 col-lg-6">
+
+                          <h3>Producent:<strong> ALBERTI FRATELLI</strong></h3>
+                          <h4>Model: <strong>AV2MA</strong></h4>
+                          <h4>Stan: <strong>NOWA</strong></h4>
+                          <h4>Opis:</h4>
+                          <p>Ścieniarka brzegu.Maszyna wyposażona w: - regulacje: szerokości / kąta / grubości ścieniania - wentylator, - pochłaniacz, Regulacja szerokości: 0-50 [mm]</p>
+                      </div>
+                    </div>
+
+                  </div>
+                  <div role="tab-panel" class="tab-pane active" id="akcesoria">
+
+                  </div>
+                  <div role="tab-panel" class="tab-pane active" id="inne">
+
+                  </div>
+                </div>
+
+              </div>
             </div>
           </div>
 
-        </header>
+        </section>
 
 
 

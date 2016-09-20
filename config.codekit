@@ -38,6 +38,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/css\/preloader.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/preloader.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/css\/style.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -47,6 +56,61 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/images\/m1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16664,
+		"inputAbbreviatedPath": "\/images\/m1.jpg",
+		"outputAbbreviatedPath": "\/images\/m1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/needle.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20500,
+		"inputAbbreviatedPath": "\/images\/needle.png",
+		"outputAbbreviatedPath": "\/images\/needle.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/nikta logo KOLOR.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.1669e+06,
+		"inputAbbreviatedPath": "\/images\/nikta logo KOLOR.jpg",
+		"outputAbbreviatedPath": "\/images\/nikta logo KOLOR.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/nikta logo KOLOR.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 156463,
+		"inputAbbreviatedPath": "\/images\/nikta logo KOLOR.png",
+		"outputAbbreviatedPath": "\/images\/nikta logo KOLOR.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/nikta_logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 156463,
+		"inputAbbreviatedPath": "\/images\/nikta_logo.png",
+		"outputAbbreviatedPath": "\/images\/nikta_logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/rodzinka.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -54,6 +118,50 @@
 		"initialSize": 1.37947e+07,
 		"inputAbbreviatedPath": "\/images\/rodzinka.jpg",
 		"outputAbbreviatedPath": "\/images\/rodzinka.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/sewing-machine.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11021,
+		"inputAbbreviatedPath": "\/images\/sewing-machine.png",
+		"outputAbbreviatedPath": "\/images\/sewing-machine.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/shoemaker.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4.33223e+06,
+		"inputAbbreviatedPath": "\/images\/shoemaker.jpg",
+		"outputAbbreviatedPath": "\/images\/shoemaker.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/shoes.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 615809,
+		"inputAbbreviatedPath": "\/images\/shoes.jpg",
+		"outputAbbreviatedPath": "\/images\/shoes.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/spool-of-thread.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19138,
+		"inputAbbreviatedPath": "\/images\/spool-of-thread.png",
+		"outputAbbreviatedPath": "\/images\/spool-of-thread.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

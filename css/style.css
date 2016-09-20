@@ -1,8 +1,39 @@
 
 /* style magmme */
 
+body{
+	font-family: 'Raleway', sans-serif;
+}
+
+
+.paralax {
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 .navbar-inverse{
 	background-color: rgba(0, 0, 0, 0.1);
 	border: none;
+}
+
+#logo img {
+	width: 150px;
+}
+
+.carousel-caption > h1{
+
+	background: #000;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.carousel-caption > p{
+	background: #00ffff;
+}
+
+#intro{
+	background: #BF464F;
+	color: #fff;
 }
