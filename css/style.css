@@ -2,6 +2,10 @@
 
 /* style magmme */
 
+html, body {
+	height: 100%;
+}
+
 body{
 	font-family: 'Raleway', sans-serif;
 	background: #fff;
@@ -109,38 +113,56 @@ h2, h3{
 	width: 100%;
 }
 
-.carousel .carousel-control{
-
-background:  none;
-border: none;
-top:  50%;
-}
 
 /* Tytuły na sliderze */
 
-.carousel-caption{
+	.carousel-caption{
 
-	top: 30%;
-	bottom: auto;
-}
+		top: 30%;
+		bottom: auto;
+	}
 
 .carousel-caption > h1{
 
-	background: #000;
+	background: rgba(0, 0, 0, 0.4);
+	display: block;
+	width: 400px;
 	padding-top: 5px;
 	padding-bottom: 5px;
+	padding-left: 5px;
+	padding-right: 10px;
 	text-transform: uppercase;
 	line-height: 8rem;
+	margin-left: 40%;
 }
 
 .carousel-caption > p{
-	background: #00ffff;
+	background: #BF464F;
+	display: block;
+	width: 550px;
+	margin-top: -2%;
+	margin-left: 25%;
+	padding-left: 5px;
+	padding-right: 5px;
+
 }
 
 #intro{
-	background: #BF464F;
+	background: #2E2F2F;
+	color: #fff;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	background-image: url('../images/rodzinka.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+
+}
+
+#intro h2 {
 	color: #fff;
 }
+
+
 
 
 
