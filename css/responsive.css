@@ -1,0 +1,30 @@
+@media (max-width: 340px) {
+
+	/* menu */
+
+	#logo img {
+		margin-top: -25%;
+		width: 40%;
+	}
+
+	.navbar-inverse .navbar-toggle{
+
+		border-color: #fff;
+
+	}
+
+	#pasek-nawigacji {
+		background-color: red;
+	}
+
+	#menu {
+		height: 70px;
+	}
+
+	/* slider */
+
+	.carousel-caption > h1{
+		font-size: 2rem;
+		line-height: 2rem;
+	}
+}
