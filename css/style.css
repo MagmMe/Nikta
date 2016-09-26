@@ -163,6 +163,37 @@ h2, h3{
 }
 
 
+/* O nas */
+
+#o-nas{
+	padding-top: 6rem;
+	padding-bottom: 3rem;
+	text-align: center;
+}
+
+#o-nas .title_magme{
+
+	margin-bottom: 5rem;
+}
+
+
+.thumbnail {
+	border: none;
+	border-radius: 2rem;
+	padding: 3rem;
+}
+
+.magme_one, .magme_two, .magme_three{
+	transition-property: all;
+	transition-duration: 0.8s;
+	transition-timing-function: ease;
+}
+
+.magme_one:hover, .magme_two:hover, .magme_three:hover{
+	background-color: #F2F175
+}
+
+
 
 
 
