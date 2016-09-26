@@ -132,7 +132,7 @@ h2, h3{
 	padding-left: 5px;
 	padding-right: 10px;
 	text-transform: uppercase;
-	line-height: 8rem;
+	line-height: 6rem;
 	margin-left: 40%;
 }
 
@@ -152,7 +152,7 @@ h2, h3{
 	color: #fff;
 	padding-top: 5%;
 	padding-bottom: 5%;
-	background-image: url('../images/rodzinka.jpg');
+	background-image: url('../images/bg_nikta.jpg');
 	background-size: cover;
 	background-attachment: fixed;
 
