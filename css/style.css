@@ -204,8 +204,11 @@ hr {
 	background-image: url('../images/bg_nikta.jpg');
 	background-size: cover;
 	background-attachment: fixed;
+	margin:  0 auto;
+	width: 1440px;
 
 }
+
 
 #intro h2 {
 	color: #fff;
@@ -272,7 +275,8 @@ hr {
 	color: #fff;
 	padding-top: 10%;
 	padding-bottom: 10%;
-
+	margin:  0 auto;
+	width: 1440px;
 	background-image: url('../images/bg_nikta3.jpg');
 	background-size: cover;
 	background-attachment: fixed;
@@ -345,6 +349,8 @@ hr {
 	padding-bottom: 10%;
 	background-image: url('../images/bg_nikta4.jpg');
 	background-size: cover;
+	margin:  0 auto;
+	width: 1440px;
 }
 
 #partnerzy h2 {
