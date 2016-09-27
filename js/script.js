@@ -1,21 +1,31 @@
 // Magmme
 
-$("#nav ul li a[href^='#']").on('click', function(e) {
+function animationHover(element, animation){
+    element = $(element);
+    element.hover(
+        function() {
+            element.addClass('animated ' + animation);
+        },
+        function(){
+            //wait for animation to finish before removing classes
+            window.setTimeout( function(){
+                element.removeClass('animated ' + animation);
+            }, 2000);
+        });
+}
 
-   // prevent default anchor click behavior
-   e.preventDefault();
 
-   // store hash
-   var hash = this.hash;
 
-   // animate
-   $('html, body').animate({
-       scrollTop: $(hash).offset().top
-     }, 300, function(){
-
-       // when done, add hash to url
-       // (default click behaviour)
-       window.location.hash = hash;
-     });
-
+$(document).ready(function(){
+    $('.magme').each(function() {
+        animationHover(this, 'pulse');
+    });
 });
+
+
+$(document).ready(function(){
+    $('.magme_pulse').each(function() {
+        animationHover(this, 'pulse');
+    });
+});
+

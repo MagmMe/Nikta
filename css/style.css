@@ -30,8 +30,57 @@ h3{
 }
 
 h2, h3{
-	color:  #F22835;
+	color: #F22835;
 }
+
+/* colors */
+
+.magme_black{
+	color: #000;
+}
+
+.magme_red {
+	color: #F22835;
+}
+
+.magme_white {
+	color: #fff;
+}
+
+.colorOne {
+	color: #DB004E;
+}
+
+.colorTwo {
+	color:  #E8A527;
+}
+
+.colorThree {
+	color:  #6143EE;
+}
+
+
+/* Horizontal line */
+
+hr {
+	position: relative;
+	left: -35%;
+	width: 30%;
+	border-top: 1px solid #DB004E;
+}
+
+.line_magme_orange{
+	border-top: 1px solid #E8A527;
+}
+
+.line_magme_blue{
+	border-top: 1px solid #6143EE;
+}
+
+.line_magme_white{
+	border-top: 1px solid #fff;
+}
+
 
 
 /* Logo */
@@ -165,10 +214,11 @@ h2, h3{
 
 /* O nas */
 
+
 #o-nas{
 	padding-top: 6rem;
 	padding-bottom: 3rem;
-	text-align: center;
+
 }
 
 #o-nas .title_magme{
@@ -176,11 +226,25 @@ h2, h3{
 	margin-bottom: 5rem;
 }
 
+#o-nas .btn{
+	border: none;
+	border-radius: 2rem;
+
+}
+
+#o-nas .btn:hover {
+
+	border:  none;
+	background-color: #fff;
+
+}
 
 .thumbnail {
 	border: none;
 	border-radius: 2rem;
-	padding: 3rem;
+	padding: 4rem;
+	text-align: left;
+
 }
 
 .magme_one, .magme_two, .magme_three{
@@ -189,8 +253,143 @@ h2, h3{
 	transition-timing-function: ease;
 }
 
-.magme_one:hover, .magme_two:hover, .magme_three:hover{
-	background-color: #F2F175
+.magme_one:hover{
+	background-color: rgba(215, 44, 44, 0.2);
+}
+
+.magme_two:hover{
+	background-color: rgba(255,140,0, 0.2);
+}
+
+.magme_three:hover{
+	background-color: rgba(138,43,226, 0.2);
+}
+
+/* Kontakt */
+
+#kontakt {
+	background: #2E2F2F;
+	color: #fff;
+	padding-top: 10%;
+	padding-bottom: 10%;
+
+	background-image: url('../images/bg_nikta3.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+#kontakt h2, p {
+	padding-left: 10%;
+}
+
+#kontakt hr {
+	left: -25%;
+}
+
+
+/* Nowości */
+
+	#nowosci{
+		padding-top: 10%;
+	}
+
+	#nowosci h2 {
+		line-height: 2rem;
+	}
+
+	#nowosci h4 {
+		line-height: 4rem;
+	}
+
+	#nowosci .portfolio{
+		padding: 5% 10%;
+
+	}
+
+
+	.nav-pills > li {
+		float: none;
+		display: inline-block;
+
+	}
+
+	.maszyny_menu >li >a {
+		background-color: #fff;
+		border: 1px solid #DB004E;
+		color: #DB004E;
+
+	}
+
+	.maszyny_menu >li.active >a, .maszyny_menu >li.active >a:focus, .maszyny_menu >li.active >a:hover {
+		color: #fff;
+		background-color: #DB004E;
+	}
+
+	.maszyny_menu >li >a:hover {
+		background-color: #fff;
+	}
+
+	.tab-content{
+		margin-top: 2%;
+		margin-left: 2%;
+		border: 1px solid #DB004E;
+		border-left: none;
+		border-radius: 0px 20px 20px 0;
+	}
+
+
+	/* Partnerzy */
+
+#partnerzy{
+	padding-top: 10%;
+	padding-bottom: 10%;
+	background-image: url('../images/bg_nikta4.jpg');
+	background-size: cover;
+}
+
+#partnerzy h2 {
+	color:  #E8A527;
+}
+#partnerzy h4 {
+	color: #fff;
+	text-align: left;
+}
+
+#partnerzy img{
+	padding-top: 5%;
+}
+
+
+/* Jakość */
+
+#jakosc {
+	padding-top: 10%;
+	padding-bottom: 10%;
+}
+
+#jakosc h2 {
+	line-height: 4rem;
+}
+
+#jakosc h4 {
+	line-height: 3rem;
+}
+
+#jakosc .container {
+	padding: 0 5% 0 5%;
+}
+
+
+#jakosc img {
+	margin-left: -60%;
+}
+
+.jakoscRow {
+	padding-top: 5%;
+}
+
+.columnRight{
+	padding-top: 10%;
 }
 
 
