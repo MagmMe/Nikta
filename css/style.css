@@ -88,7 +88,7 @@ hr {
 /* Logo */
 
 #logo img {
-	width: 30%;
+	width: 130px;
 	margin-top: -10px;
 }
 
@@ -147,6 +147,29 @@ hr {
 
 	background-color: transparent;
 }
+
+.dropdown-toggle {
+	border-color: #CD2835;
+}
+
+
+/* Języki */
+
+#moje-menu .lang_magme{
+	font-size: 0.8em;
+	border-bottom: none;
+}
+
+
+#moje-menu .dropdown a:hover {
+	border-bottom:  none;
+}
+
+#moje-menu .dropdown.open a:focus{
+	background-color: #000;
+	border-color: #CD2835;
+}
+
 
 
 /* Slider */
@@ -418,6 +441,14 @@ hr {
 	border-color: #fff;
 }
 
+.form-control {
+
+	border-bottom:  1px solid #DB004E;
+	border-left: 1px solid #DB004E;
+	border-top: 1px solid #fff;
+	border-right: 1px solid #fff;
+}
+
 /* Footer */
 
 #stopka {
@@ -433,6 +464,12 @@ hr {
 	float: right;
 	margin-left: 1rem;
 	width: 7%;
+}
+
+#stopka img:hover{
+	-webkit-animation: pulse .8s ease;
+	-o-animation: pulse .8s ease;
+	animation: pulse .8s ease;
 }
 
 

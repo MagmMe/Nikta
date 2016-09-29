@@ -283,6 +283,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/lang\/lang-eng.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1029,
+		"inputAbbreviatedPath": "\/images\/lang\/lang-eng.jpg",
+		"outputAbbreviatedPath": "\/images\/lang\/lang-eng.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/lang\/lang-ita.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1714,
+		"inputAbbreviatedPath": "\/images\/lang\/lang-ita.jpg",
+		"outputAbbreviatedPath": "\/images\/lang\/lang-ita.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/lang\/lang-pl.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 606,
+		"inputAbbreviatedPath": "\/images\/lang\/lang-pl.jpg",
+		"outputAbbreviatedPath": "\/images\/lang\/lang-pl.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/lang\/lang-rus.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 721,
+		"inputAbbreviatedPath": "\/images\/lang\/lang-rus.jpg",
+		"outputAbbreviatedPath": "\/images\/lang\/lang-rus.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/m1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
