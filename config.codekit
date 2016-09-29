@@ -96,6 +96,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/689891075-sewing-needle-isolated.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27939,
+		"inputAbbreviatedPath": "\/images\/689891075-sewing-needle-isolated.jpg",
+		"outputAbbreviatedPath": "\/images\/689891075-sewing-needle-isolated.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/bg_nikta.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -488,6 +499,17 @@
 		"initialSize": 11021,
 		"inputAbbreviatedPath": "\/images\/sewing-machine.png",
 		"outputAbbreviatedPath": "\/images\/sewing-machine.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/sewing-needle-isolated.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27939,
+		"inputAbbreviatedPath": "\/images\/sewing-needle-isolated.jpg",
+		"outputAbbreviatedPath": "\/images\/sewing-needle-isolated.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
