@@ -14,8 +14,6 @@ function animationHover(element, animation){
         });
 }
 
-
-
 $(document).ready(function(){
     $('.magme').each(function() {
         animationHover(this, 'pulse');
